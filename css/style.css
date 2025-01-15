@@ -1,0 +1,17 @@
+.wrapper{
+	width: 50%;
+	margin:0 auto;
+	border: 8px solid #ddd;
+}
+
+label{
+	font-size: 30px;
+	text-align: center;
+}
+
+.first_name, .last_name, .email, .password, .address{
+	width: 90%;
+	height: 30px;
+	padding: 12px;
+	font-size: 18px;
+}
